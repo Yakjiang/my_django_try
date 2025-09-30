@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-pj*wj!yd5c3fp7ws9hue-+z#xxbf1(4n9in2a9q+_jc#bvvtoo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'mydjangotry.zeabur.app'
+]
 
 
 # Application definition
