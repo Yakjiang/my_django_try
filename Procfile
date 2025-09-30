@@ -1,0 +1,1 @@
+web: gunicorn my_django_try.wsgi --bind 0.0.0.0:$PORT
